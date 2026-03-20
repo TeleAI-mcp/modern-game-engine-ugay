@@ -1,2 +1,3 @@
-# modern-game-engine-ugay
+# Modern Game Engine Ugay
+
 A game engine project for modern development workflows.
